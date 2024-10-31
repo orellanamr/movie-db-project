@@ -1,0 +1,19 @@
+{
+  "name": "movie-db-project",
+  "version": "1.0.0",
+  "description": "Aplicación web para explorar y buscar películas utilizando la API de The Movie Database. Proyecto creado en JavaScript con diseño basado en un prototipo de Figma. Desplegado en GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orellanamr/movie-db-project.git"
+  },
+  "author": "orellanamr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orellanamr/movie-db-project/issues"
+  },
+  "homepage": "https://github.com/orellanamr/movie-db-project#readme"
+}
